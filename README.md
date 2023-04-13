@@ -1,6 +1,6 @@
 # HTML5-CSS3_Raul
  
- <img src="bandeiraBrasil.png" align="right" width="300">
+ <img src="bandeiraBrasil.jpg" align="right" width="300">
 
 # Descrição
 
