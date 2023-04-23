@@ -1,7 +1,8 @@
 # HTML5-CSS3_Raul
  
- <img src="HTML5-icon.png" align="right" width="150">
  <img src="CSS3-icon.png" align="right" width="150">
+ <img src="HTML5-icon.png" align="right" width="150">
+ 
 
 
 # Descrição
