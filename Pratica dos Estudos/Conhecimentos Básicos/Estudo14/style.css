@@ -1,0 +1,8 @@
+@charset "UTF-8";
+
+body{background-color: rgb(78, 136, 64);
+font-family: 'Times New Roman', Times, serif;
+font-size: 22px;}
+h1{color: aliceblue;}
+h2{color: bisque;}
+p{text-align: center;}
